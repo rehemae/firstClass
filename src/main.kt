@@ -4,7 +4,7 @@ fun main(){
     println("User age: ${User1.age}")
 
 
-val User2=User("Anna",20)
+val User2=User("vee",20)
     println("User name: ${User2.name}")
     println("User age: ${User2.age}")
 
